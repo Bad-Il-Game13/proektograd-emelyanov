@@ -1,0 +1,31 @@
+h1{
+    color:#ff0000;
+    font-size: 45px
+}
+   
+.kruzki{
+    width: 500px;
+}
+.I{
+    width: 500px;
+}
+.Artem{
+    width: 500px;
+}
+.Dima{
+    width: 500px;
+}
+.Lisa{
+    width: 500px;
+}
+.Zaxar{
+    width: 500px;
+}
+.Sergey{
+    width: 500px;
+}
+
+
+body{
+    background:url('/фон.jpg'); background-size: cover;
+}
