@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Esteban&family=Exo:wght@300;800&family=Ubuntu:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Esteban&family=Exo:wght@300&family=Ubuntu:wght@300&display=swap');
 h1{
     color:#ff0000;
     font-size: 45px
@@ -28,4 +31,40 @@ h1{
 
 body{
     background:url('/фон.jpg'); background-size: cover;
+    font-family: 'Ubuntu'
+}
+.esteban{
+    font-family: Esteban;
+    font-weight: 900;
+    text-align: center;
+}
+.exo{
+    font-family: Exo;
+}
+.straniza-bez-background{
+    background: none;
+}
+.odin{
+    font-family: Exo;
+    font-weight: 800;
+    font-size: 40px;
+    color:red;
+    text-align: left;
+    text-decoration: underline;
+}
+.dva{
+    font-family:Ubuntu ;
+    font-weight: 400;
+    font-size: 30px;
+    color:black;
+    text-align: center;
+    text-decoration: overline;
+}
+.tre{
+    font-family: Esteban;
+    font-weight: 100;
+    font-size: 20;
+    color: blue;
+    text-align: right;
+    text-decoration: line-through;
 }
